@@ -3,7 +3,7 @@ window.purevineProducts = [
     id: "produce-clamshell",
     category: "Rigid Packaging",
     title: "Produce Clamshell Container",
-    image: "https://YOUR-CLOUDINARY-URL/clamshell.jpg",
+    image: "https://collection.cloudinary.com/dop5knltm/333016170a63d97ddd7fbe6568042ae5",
     link: "/products#produce-clamshell"
   },
   {
